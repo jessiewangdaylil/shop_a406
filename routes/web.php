@@ -20,4 +20,6 @@ Route::namespace ('App\Http\Controllers')->group(function () {
     Route::get('/contact', 'SiteController@contact');
     Route::get('/confirmation', 'SiteController@confirmation');
     Route::get('/elements', 'SiteController@elements');
+    Route::get('/product_details', 'SiteController@product_details');
+
 });

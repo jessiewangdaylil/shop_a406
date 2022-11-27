@@ -24,4 +24,7 @@ class SiteController extends Controller
     {
         return view('elements');
     }
+    public function product_details(){
+      return view('product_details');
+    }
 }
