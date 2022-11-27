@@ -16,7 +16,11 @@ use Illuminate\Support\Facades\Route;
 Route::namespace ('App\Http\Controllers')->group(function () {
 
     Route::get('/', 'SiteController@index');
-    Route::get('/shop', 'SiteController@index');
+    Route::get('/product_details', 'SiteController@product_details');
+    Route::get('/shop', 'SiteController@shop');
+    Route::get('/contact', 'SiteController@contact');
+    Route::get('/confirmation', 'SiteController@confirmation');
+    Route::get('/elements', 'SiteController@elements');
     Route::get('/product_details', 'SiteController@product_details');
 
 });
