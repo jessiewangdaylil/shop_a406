@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('title','部落格詳細資訊')
+@section('title',' 部落格詳情')
 
 @section('content')
       <!-- Hero Area Start-->

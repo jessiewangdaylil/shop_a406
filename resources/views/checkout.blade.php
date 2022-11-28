@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('title','結帳')
+@section('title',' 結帳')
 
 @section('content')
         <!-- Hero Area Start-->

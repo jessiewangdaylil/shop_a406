@@ -18,7 +18,7 @@ Route::namespace ('App\Http\Controllers')->group(function () {
     Route::get('/', 'SiteController@index');
     Route::get('/shop', 'SiteController@index');
     Route::get('/product_details', 'SiteController@product_details');
-    Route::get('/blog_details', 'SiteController@blog_details');
+    Route::get('/blog-details', 'SiteController@blog_details');
     Route::get('/cart', 'SiteController@cart');
     Route::get('/checkout', 'SiteController@checkout');
 
