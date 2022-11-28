@@ -72,7 +72,7 @@
                                             <li><a href="{{url('/cart')}}">Cart</a></li>
                                             <li><a href="{{url('/elements')}}">Element</a></li>
                                             <li><a href="{{url('/confirmation')}}">Confirmation</a></li>
-                                            <li><a href="{{url('/checkout')}}.">Product Checkout</a></li>
+                                            <li><a href="{{url('/checkout')}}">Product Checkout</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="{{url('/contact')}}">Contact</a></li>
