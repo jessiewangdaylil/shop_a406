@@ -23,5 +23,6 @@ Route::namespace ('App\Http\Controllers')->group(function () {
     Route::get('/about', 'SiteController@about');
     Route::get('/blog', 'SiteController@blog');
     Route::get('/product_details', 'SiteController@product_details');
+    Route::get('/product_list', 'SiteController@product_shop');
 
 });
