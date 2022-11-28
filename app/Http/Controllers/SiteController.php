@@ -12,19 +12,20 @@ class SiteController extends Controller
     {
         return view('shop');
     }
-    public function contact()
+    public function product_details()
     {
-        return view('contact');
+        return view('product_details');
     }
-    public function confirmation()
+    public function blog_details()
     {
-        return view('confirmation');
+        return view('blog_details');
     }
-    public function elements()
+    public function cart()
     {
-        return view('elements');
+        return view('cart');
     }
-    public function product_details(){
-      return view('product_details');
+    public function checkout()
+    {
+        return view('checkout');
     }
 }
