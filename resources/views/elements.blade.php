@@ -196,11 +196,7 @@
 								talk a little about what symptoms</p>
 						</div>
 						<div class="col-md-3">
-<<<<<<< HEAD
-							<img src="{{ assets ('img/elements/d.jpg')}}" alt="" class="img-fluid">
-=======
 							<img src="{{asset ('img/elements/d.jpg')}}" alt="" class="img-fluid">
->>>>>>> 22采蓁
 						</div>
 					</div>
 				</div>
@@ -275,11 +271,7 @@
 							</div>
 							<div class="table-row">
 								<div class="serial">01</div>
-<<<<<<< HEAD
-								<div class="country"> <img src="{{ assets ('img/elements/f1.jpg')}}" alt="flag">Canada</div>
-=======
 								<div class="country"> <img src="{{asset ('img/elements/f1.jpg')}}" alt="flag">Canada</div>
->>>>>>> 22采蓁
 								<div class="visit">645032</div>
 								<div class="percentage">
 									<div class="progress">
@@ -290,11 +282,7 @@
 							</div>
 							<div class="table-row">
 								<div class="serial">02</div>
-<<<<<<< HEAD
-								<div class="country"> <img src="{{ assets ('img/elements/f2.jpg')}}" alt="flag">Canada</div>
-=======
 								<div class="country"> <img src="{{asset ('img/elements/f2.jpg')}}" alt="flag">Canada</div>
->>>>>>> 22采蓁
 								<div class="visit">645032</div>
 								<div class="percentage">
 									<div class="progress">
@@ -305,11 +293,7 @@
 							</div>
 							<div class="table-row">
 								<div class="serial">03</div>
-<<<<<<< HEAD
-								<div class="country"> <img src="{{ assets ('img/elements/f3.jpg')}}" alt="flag">Canada</div>
-=======
 								<div class="country"> <img src="{{asset ('img/elements/f3.jpg')}}" alt="flag">Canada</div>
->>>>>>> 22采蓁
 								<div class="visit">645032</div>
 								<div class="percentage">
 									<div class="progress">
@@ -320,11 +304,7 @@
 							</div>
 							<div class="table-row">
 								<div class="serial">04</div>
-<<<<<<< HEAD
-								<div class="country"> <img src="{{ assets ('img/elements/f4.jpg')}}" alt="flag">Canada</div>
-=======
 								<div class="country"> <img src="{{asset ('img/elements/f4.jpg')}}" alt="flag">Canada</div>
->>>>>>> 22采蓁
 								<div class="visit">645032</div>
 								<div class="percentage">
 									<div class="progress">
@@ -335,11 +315,7 @@
 							</div>
 							<div class="table-row">
 								<div class="serial">05</div>
-<<<<<<< HEAD
-								<div class="country"> <img src="{{ assets ('img/elements/f5.jpg')}}" alt="flag">Canada</div>
-=======
 								<div class="country"> <img src="{{asset ('img/elements/f5.jpg')}}" alt="flag">Canada</div>
->>>>>>> 22采蓁
 								<div class="visit">645032</div>
 								<div class="percentage">
 									<div class="progress">
@@ -350,11 +326,7 @@
 							</div>
 							<div class="table-row">
 								<div class="serial">06</div>
-<<<<<<< HEAD
-								<div class="country"> <img src="{{ assets ('img/elements/f6.jpg')}}" alt="flag">Canada</div>
-=======
 								<div class="country"> <img src="{{asset ('img/elements/f6.jpg')}}" alt="flag">Canada</div>
->>>>>>> 22采蓁
 								<div class="visit">645032</div>
 								<div class="percentage">
 									<div class="progress">
@@ -365,11 +337,7 @@
 							</div>
 							<div class="table-row">
 								<div class="serial">07</div>
-<<<<<<< HEAD
-								<div class="country"> <img src="{{ assets ('img/elements/f7.jpg')}}" alt="flag">Canada</div>
-=======
 								<div class="country"> <img src="{{asset ('img/elements/f7.jpg')}}" alt="flag">Canada</div>
->>>>>>> 22采蓁
 								<div class="visit">645032</div>
 								<div class="percentage">
 									<div class="progress">
@@ -380,11 +348,7 @@
 							</div>
 							<div class="table-row">
 								<div class="serial">08</div>
-<<<<<<< HEAD
-								<div class="country"> <img src="{{ assets ('img/elements/f8.jpg')}}" alt="flag">Canada</div>
-=======
 								<div class="country"> <img src="{{asset ('img/elements/f8.jpg')}}" alt="flag">Canada</div>
->>>>>>> 22采蓁
 								<div class="visit">645032</div>
 								<div class="percentage">
 									<div class="progress">
@@ -400,83 +364,43 @@
 					<h3>Image Gallery</h3>
 					<div class="row gallery-item">
 						<div class="col-md-4">
-<<<<<<< HEAD
-							<a href="{{ assets ('img/elements/g1.jpg')}}" class="img-pop-up">
-								<div class="single-gallery-image" style="background: url({{ assets ('img/elements/g1.jpg'))}};"></div>
-							</a>
-						</div>
-						<div class="col-md-4">
-							<a href="{{ assets ('img/elements/g2.jpg')}}" class="img-pop-up">
-								<div class="single-gallery-image" style="background: url({{ assets ('img/elements/g2.jpg'))}};"></div>
-							</a>
-						</div>
-						<div class="col-md-4">
-							<a href="{{ assets ('img/elements/g3.jpg')}}" class="img-pop-up">
-								<div class="single-gallery-image" style="background: url({{ assets ('img/elements/g3.jpg'))}};"></div>
-							</a>
-						</div>
-						<div class="col-md-6">
-							<a href="{{ assets ('img/elements/g4.jpg')}}" class="img-pop-up">
-								<div class="single-gallery-image" style="background: url({{ assets ('img/elements/g4.jpg'))}};"></div>
-							</a>
-						</div>
-						<div class="col-md-6">
-							<a href="{{ assets ('img/elements/g5.jpg')}}" class="img-pop-up">
-								<div class="single-gallery-image" style="background: url({{ assets ('img/elements/g5.jpg'))}};"></div>
-							</a>
-						</div>
-						<div class="col-md-4">
-							<a href="{{ assets ('img/elements/g6.jpg')}}" class="img-pop-up">
-								<div class="single-gallery-image" style="background: url({{ assets ('img/elements/g6.jpg'))}};"></div>
-							</a>
-						</div>
-						<div class="col-md-4">
-							<a href="{{ assets ('img/elements/g7.jpg')}}" class="img-pop-up">
-								<div class="single-gallery-image" style="background: url({{ assets ('img/elements/g7.jpg'))}};"></div>
-							</a>
-						</div>
-						<div class="col-md-4">
-							<a href="{{ assets ('img/elements/g8.jpg')}}" class="img-pop-up">
-								<div class="single-gallery-image" style="background: url({{ assets ('img/elements/g8.jpg'))}};"></div>
-=======
 							<a href="{{asset ('img/elements/g1.jpg')}}" class="img-pop-up">
-								<div class="single-gallery-image" style="background: url({{asset ('img/elements/g1.jpg'))}};"></div>
+								<div class="single-gallery-image" style="background: url({{asset ('img/elements/g1.jpg')}});"></div>
 							</a>
 						</div>
 						<div class="col-md-4">
 							<a href="{{asset ('img/elements/g2.jpg')}}" class="img-pop-up">
-								<div class="single-gallery-image" style="background: url({{asset ('img/elements/g2.jpg'))}};"></div>
+								<div class="single-gallery-image" style="background: url({{asset ('img/elements/g2.jpg')}});"></div>
 							</a>
 						</div>
 						<div class="col-md-4">
 							<a href="{{asset ('img/elements/g3.jpg')}}" class="img-pop-up">
-								<div class="single-gallery-image" style="background: url({{asset ('img/elements/g3.jpg'))}};"></div>
+								<div class="single-gallery-image" style="background: url({{asset ('img/elements/g3.jpg')}});"></div>
 							</a>
 						</div>
 						<div class="col-md-6">
 							<a href="{{asset ('img/elements/g4.jpg')}}" class="img-pop-up">
-								<div class="single-gallery-image" style="background: url({{asset ('img/elements/g4.jpg'))}};"></div>
+								<div class="single-gallery-image" style="background: url({{asset ('img/elements/g4.jpg')}});"></div>
 							</a>
 						</div>
 						<div class="col-md-6">
 							<a href="{{asset ('img/elements/g5.jpg')}}" class="img-pop-up">
-								<div class="single-gallery-image" style="background: url({{asset ('img/elements/g5.jpg'))}};"></div>
+								<div class="single-gallery-image" style="background: url({{asset ('img/elements/g5.jpg')}});"></div>
 							</a>
 						</div>
 						<div class="col-md-4">
 							<a href="{{asset ('img/elements/g6.jpg')}}" class="img-pop-up">
-								<div class="single-gallery-image" style="background: url({{asset ('img/elements/g6.jpg'))}};"></div>
+								<div class="single-gallery-image" style="background: url({{asset ('img/elements/g6.jpg')}});"></div>
 							</a>
 						</div>
 						<div class="col-md-4">
 							<a href="{{asset ('img/elements/g7.jpg')}}" class="img-pop-up">
-								<div class="single-gallery-image" style="background: url({{asset ('img/elements/g7.jpg'))}};"></div>
+								<div class="single-gallery-image" style="background: url({{asset ('img/elements/g7.jpg')}});"></div>
 							</a>
 						</div>
 						<div class="col-md-4">
 							<a href="{{asset ('img/elements/g8.jpg')}}" class="img-pop-up">
-								<div class="single-gallery-image" style="background: url({{asset ('img/elements/g8.jpg'))}};"></div>
->>>>>>> 22采蓁
+								<div class="single-gallery-image" style="background: url({{asset ('img/elements/g8.jpg')}});"></div>
 							</a>
 						</div>
 					</div>
