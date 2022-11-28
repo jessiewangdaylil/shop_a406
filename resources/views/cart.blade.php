@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('title','購物車')
+@section('title',' 購物車')
 
 @section('content')
       <!-- Hero Area Start-->
