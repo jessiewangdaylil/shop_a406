@@ -36,4 +36,16 @@ class SiteController extends Controller
     {
         return view('blog');
     }
+    public function contact()
+    {
+        return view('contact');
+    }
+    public function elements()
+    {
+        return view('elements');
+    }
+    public function confirmation()
+    {
+        return view('confirmation');
+    }
 }
