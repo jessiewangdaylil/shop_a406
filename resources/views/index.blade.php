@@ -341,7 +341,13 @@
                     </div>
                 </div>
             </div>
+<?php
 
+ echo '1234';
+
+?>
+
+{!! menu('admin', 'bootstrap') !!}
 
         </div>
         <!-- Shop Method End-->
