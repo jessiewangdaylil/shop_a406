@@ -341,6 +341,8 @@
                     </div>
                 </div>
             </div>
+
+
         </div>
         <!-- Shop Method End-->
 @endsection
